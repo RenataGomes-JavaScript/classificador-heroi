@@ -2,7 +2,7 @@
 
 ## 📌 Descrição
 
-Este projeto é um desafio em JavaScript que classifica o nível do herói como base na quantidade de experiência (xp).
+Este projeto é um desafio em JavaScript que classifica o nível do herói com base na quantidade de experiência (xp).
 
 De acordo com o valor do xp informado, o programa determina o nível do herói e exibe uma mensagem no console.
 
